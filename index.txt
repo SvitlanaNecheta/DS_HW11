@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Мої ноутбуки</title>
+</head>
+<body>
+  <h1>Домашнє завдання №11</h1>
+   <a href="hw10-ml-necheta_task1.html" target="_blank">Kaggle Notebook - task1</a></li>
+</body>
+</html>
